@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Flora's lamentable passion, crown'd with unspeakable joy and comfort. Flora she did sore lament, her spirit did decay; Strephon fill'd her with content, and cast all grief away. To the tune of, Tender hearts of London city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03337</idno>
+            <idno type="STC">Wing F1367</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[108]</idno>
+            <idno type="EEBO-CITATION">99887144</idno>
+            <idno type="PROQUEST">ocm99887144</idno>
+            <idno type="VID">181858</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181858)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[108])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Flora's lamentable passion, crown'd with unspeakable joy and comfort. Flora she did sore lament, her spirit did decay; Strephon fill'd her with content, and cast all grief away. To the tune of, Tender hearts of London city.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J[onah]. Deacon, at the Angel in Guilt-spur street without Newgate.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Floras in her grove she lyed ..."</note>
+                  <note>Place, date of publication, and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181858:1"/>
+            <!-- PDF PAGE 12 -->
+            <head>Flora's lamentable paſſion, Crown'd with unſpeakable Joy and Comfort,</head>
+            <argument>
+               <l>
+                  <hi>Flora</hi> ſhe did ſore lament,</l>
+               <l>her Spirit did decay;</l>
+               <l>
+                  <hi>Strephon</hi> fill'd her with content,</l>
+               <l>and caſt all Grief away.</l>
+            </argument>
+            <opener>To the Tune of, Tender hearts of <hi>London</hi> City.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>FLoras</hi> in her Grove ſhe lyed,</l>
+               <l>Sighing panting thus ſhe cryed,</l>
+               <l>
+                  <hi>Strephon</hi> thou art fled from me;</l>
+               <l>O my Swain I may complain,</l>
+               <l>for thou doſt prove unkind I ſee.</l>
+            </lg>
+            <lg>
+               <l>I was ever chaſte and Loyal,</l>
+               <l>O it is a grevious tryal,</l>
+               <l>that we ſhould ſeparated be:</l>
+               <l>
+                  <hi>Cupits</hi> Dart, hath pierc'd my heart,</l>
+               <l>alas my joys are fled from me.</l>
+            </lg>
+            <lg>
+               <l>Here I ſit in grief afflicted,</l>
+               <l>By my love I am rejected,</l>
+               <l>ſorrows hath compaſt me round;</l>
+               <l>Inſulting Death, come ſtop my breath,</l>
+               <l>and let not grief in me abound.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The pretty little Lambs lamented,</l>
+               <l>Seeming to be diſcontented,</l>
+               <l>Hearing of her make this moan;</l>
+               <l>Quoth ſhe my pain I can't contain,</l>
+               <l>for all my joys are from me flown.</l>
+            </lg>
+            <lg>
+               <l>He a thouſand times hath kiſt me,</l>
+               <l>And as many times has bleſt me,</l>
+               <l>calling me his only joy;</l>
+               <l>But now I find he proves unkind,</l>
+               <l>which doth my comforts quite deſtroy.</l>
+            </lg>
+            <lg>
+               <l>With ſweet language thou didſt woe me</l>
+               <l>And with comforts did'ſt indue me,</l>
+               <l>yet thou proved'ſt moſt falſe I ſee;</l>
+               <l>Remember now thy former vow,</l>
+               <l>which thou didſt make in ſecreſie,</l>
+            </lg>
+            <lg>
+               <l>I was never fond and fickle,</l>
+               <l>Down her Cheeks the tears did trickle,</l>
+               <l>and her colour waxed pale,</l>
+               <l>With complaint, her heart did faint,</l>
+               <l>quoth ſhe, I find my ſpirits fail.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Strephons <hi>Anſwer to</hi> Flora's <hi>Complaint.</hi>
+                  </hi>
+               </l>
+               <l>In the midſt of all her trouble,</l>
+               <l>
+                  <hi>Strephon</hi> did her joys redouble,</l>
+               <l>with a ſweet oblieging way;</l>
+               <l>He did her greet, quoth he my ſweet,</l>
+               <l>my Love is fixt from all decay.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Floras</hi> I do dearly love thee,</l>
+               <l>I eſteem no one above thee,</l>
+               <l>thou ſhalt have thy hearts delight;</l>
+               <l>Then here's my hand, do thou command</l>
+               <l>and I will ſerve thee day and night.</l>
+            </lg>
+            <lg>
+               <l>Though I ſeemed to be parted,</l>
+               <l>Yet I am more loyal hearted,</l>
+               <l>my Love is linked unto thee;</l>
+               <l>Take hand and heart, we'l never part,</l>
+               <l>thou art my life and liberty.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Floras</hi> I in heart adore thee,</l>
+               <l>I prefer no one before thee,</l>
+               <l>thou haſt a ſweet oblieging Eye;</l>
+               <l>I'le ne'r be cruel to my Iewel,</l>
+               <l>but be faithful till I dye.</l>
+            </lg>
+            <lg>
+               <l>Do not think that I will ſlight thee,</l>
+               <l>I endeavour to delight thee,</l>
+               <l>nothing ſhall my love annoy;</l>
+               <l>I will nouriſh, and will cheriſh,</l>
+               <l>my ſweet <hi>Floras,</hi> my true joy.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Deacon,</hi> at the Angel in Guilt-ſpur ſtreet without Newgate.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
